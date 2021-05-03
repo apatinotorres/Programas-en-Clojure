@@ -78,3 +78,6 @@
 (println (quicksort [1 2 3 0 10 9])) ;; punto 4
 ;; (println (generate-triple 2)) ;; punto 5
 ;; (println (add-ten 4)) ;; punto 6
+
+(defn adding [x]
+  (+ x x))
